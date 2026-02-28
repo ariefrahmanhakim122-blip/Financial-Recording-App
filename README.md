@@ -24,12 +24,12 @@ Aplikasi desktop berbasis Java untuk mencatat pemasukan dan pengeluaran secara t
 ## 🚀 Cara Menjalankan
 1. Clone repository ini:
    ```bash
-   git clone [https://github.com/username-kamu/nama-repo.git](https://github.com/username-kamu/nama-repo.git)
+   git clone [https://github.com/ariefrahmanhakim122-blip/Financial-Recording-App.git](https://github.com/ariefrahmanhakim122-blip/Financial-Recording-App.git)
 
-2. Import database .sql yang tersedia ke MySQL (phpMyAdmin).
+2. Import database.sql yang tersedia ke MySQL (phpMyAdmin).
 
 3. Buka project menggunakan Apache NetBeans IDE.
 
-4. Pastikan Library (.jar) yang dibutuhkan sudah ditambahkan    di folder Libraries.
+4. Pastikan Library (.jar) yang dibutuhkan sudah ditambahkan di folder Libraries.
 
 5. Run FormLogin.java atau FormDashboard.java.
