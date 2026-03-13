@@ -1,8 +1,8 @@
-# 💰 Aplikasi Rekap Keuangan Pribadi (Java Swing)
+# Aplikasi Rekap Keuangan Pribadi (Java Swing)
 
 Aplikasi desktop berbasis Java untuk mencatat pemasukan dan pengeluaran secara terorganisir. Dilengkapi dengan visualisasi data menggunakan grafik dan fitur laporan.
 
-## ✨ Fitur Utama
+## Fitur Utama
 * Pencatatan Transaksi: Input pemasukan dan pengeluaran berdasarkan kategori.
 * Filter Data: Menampilkan data berdasarkan bulan dan tahun tertentu.
 * Dashboard Visual: Grafik batang (Bar Chart) interaktif menggunakan JFreeChart untuk membandingkan keuangan bulanan.
@@ -12,7 +12,7 @@ Aplikasi desktop berbasis Java untuk mencatat pemasukan dan pengeluaran secara t
     * Export ke CSVn(Untuk diolah di Excel).
 * Database: Terintegrasi dengan MySQL untuk penyimpanan data permanen.
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 * Bahasa: Java
 * GUI Library: Java Swing & NetBeans Matisse
 * Database: MySQL
@@ -21,7 +21,7 @@ Aplikasi desktop berbasis Java untuk mencatat pemasukan dan pengeluaran secara t
     * `MySQL Connector/J`: Driver database.
     * `JCalendar`: Untuk pemilihan tanggal.
 
-## 🚀 Cara Menjalankan
+## Cara Menjalankan
 1. Clone repository ini:
    ```bash
    git clone [https://github.com/ariefrahmanhakim122-blip/Financial-Recording-App.git](https://github.com/ariefrahmanhakim122-blip/Financial-Recording-App.git)
